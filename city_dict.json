@@ -1,1 +1,12 @@
-{"4": "Mumbai", "5": "Delhi", "7": "Bangalore", "1": "Kolkata", "6": "Chennai", "8": "Hyderabad", "9": "Ahmedabad", "3": "Jaipur", "10": "Lucknow", "2": "Other"}
+{
+   "4":"Mumbai",
+   "5":"Delhi",
+   "7":"Bangalore",
+   "1":"Kolkata",
+   "6":"Chennai",
+   "8":"Hyderabad",
+   "9":"Ahmedabad",
+   "3":"Jaipur",
+   "10":"Lucknow",
+   "2":"Other"
+}
